@@ -1,0 +1,83 @@
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 80%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.585); /* Black w/ opacity */
+  }
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #2518bc;
+    margin: 5% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #e00808;
+    width: 60% !important; /* Could be more or less, depending on screen size */
+    height: 80%;
+  }
+  .close {
+    color: #6b5b5b;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+.di{
+  margin-left: 7cm;
+}
+.ml-7{
+  margin-left: 7.5cm;
+  size: 1.2cm;
+  font-size: 130%;
+}
+.ournews{
+  margin-left: 0cm;
+  background: #E9967A;
+  text-align: center;
+}
+.vidkrutia{
+  margin-left: 10.5cm;
+}
+.certifikat{
+  margin-left: 15cm;
+}
+.komanda{
+  margin-left: 12cm;
+}
+.pro{
+  margin-left: 16cm;
+}
+.doc{
+  margin-left: 14.7cm;
+}
+.silka2{
+  margin-left: 0.2cm;
+}
+.line{
+  background: #E9967A;
+  height: 1.7cm;
+  margin-top: 5cm;
+  margin-bottom: 0.5cm;
+}
+.zam{
+  margin-left: 14cm;
+}
+.error-message {
+  color: red;
+}
+.knopka{
+  margin-left: 16.5cm;
+}
+.success-message {
+  color: green;
+}
+.zamovlenia{
+  margin-left: 10.5cm;
+  color: #e00808;
+}
+.ramka{
+  margin-left: 15cm;
+}
